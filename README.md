@@ -1,7 +1,8 @@
 <h1 align='center'>
-    <img src='src/images/logo.svg' /><br />
+    <img src='src/images/logo.svg' />
     <img src='src/images/cover.svg' />
 </h1>
+<br/ >
 
 ## 🧪 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
