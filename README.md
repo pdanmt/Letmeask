@@ -46,7 +46,7 @@ O Letmeask é um projeto desenvolvido para criadores de conteúdo que buscam ter
 
 Foi desenvolvido pela equipe da [Rocketseat](https://www.rocketseat.com.br)
 
-## Figma
+## 📝 Figma
 A visualização do layout do projeto pode ser feita no link abaixo:
 
 - [Layout para web](https://www.figma.com/design/CAEUMAHiUggQrw24ssbMoK/Letmeask-(Community)?node-id=0-1&node-type=canvas&t=FeXYgKiKoAi6rXRG-0)
