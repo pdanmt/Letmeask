@@ -88,18 +88,18 @@ export function RoomLayout () {
                     display='flex' 
                     flexDir='column' 
                     gap='1rem' 
-                    w={{ sm: '90vw', md: '80vw', lg: '60vw' }}
+                    w={{ sm: '95vw', md: '80vw', lg: '60vw' }}
                     margin='4rem auto'
                 >
-                    <Box display='flex' gap='1rem' alignItems='center'>
-                        <Text fontSize={{ sm: '1.5rem', md: '2rem' }} fontWeight='bold'>Sala {roomInfos.title}</Text>
+                    <Box display='flex' gap='1rem' alignItems='center' justifyContent={{ sm: 'space-between', md: 'left' }}>
+                        <Text fontSize={{ sm: '1.2rem', md: '2rem' }} fontWeight='bold'>Sala {roomInfos.title}</Text>
                         {question.length !== 0 && <Box 
                         bg='pink.200' 
                         p='0.2rem 0.8rem' 
                         borderRadius='1000px'
                         color='white.details'
-                        fontSize='0.9rem'
-                        >
+                        fontSize={{ sm: '0.75rem', md: '0.9rem' }}
+                    >
                             {question.length} pergunta{question.length === 1 ? '' : 's'}
                         </Box>}
                     </Box>
