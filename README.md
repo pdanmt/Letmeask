@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Clone  o projeto e acesse sua pasta
 
 ```bash
-$ git clone https://github.com/pdanmt/LetMeAsk.git
+$ git clone https://github.com/pdanmt/LetMeAsk
 $ cd LetMeAsk
 ```
 Para iniciá-lo utilize o npm:
