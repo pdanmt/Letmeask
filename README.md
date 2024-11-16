@@ -32,13 +32,13 @@ A aplicação estará rondando no seu navegador pelo endereço [http://localhost
 Além disso, lembre-se de criar um projeto firebase usando o firebase authentication e o realtime database. Ao fazer isso, adicione as configurações do firebase em um arquivo .env.local ou .env deste jeito:
 
 ```dotenv
-VITE_API_KEY="SUA_CHAVE"
-VITE_AUTH_DOMAIN="SEU_DOMÍNIO_DE_AUTENTICAÇÃO"
-VITE_DATABASE_URL="A_URL_DO_SEU_BANCO_DE_DADOS"
-VITE_PROJECT_ID="O_ID_DO_SEU_PROJETO"
-VITE_STORAGE_BUCKET="SEU_STORAGE_BUCKET"
-VITE_MESSAGING_SENDER_ID="SEU_MESSAGING_SENDER_ID"
-VITE_APP_ID="O_ID_DA_SUA_APLICAÇÃO"
+VITE_API_KEY=<SUA_CHAVE>
+VITE_AUTH_DOMAIN=<SEU_DOMÍNIO_DE_AUTENTICAÇÃO>
+VITE_DATABASE_URL=<A_URL_DO_SEU_BANCO_DE_DADOS>
+VITE_PROJECT_ID=<O_ID_DO_SEU_PROJETO>
+VITE_STORAGE_BUCKET=<SEU_STORAGE_BUCKET>
+VITE_MESSAGING_SENDER_ID=<SEU_MESSAGING_SENDER_ID>
+VITE_APP_ID=<O_ID_DA_SUA_APLICAÇÃO>
 ```
 
 ## 🖥️ Projeto
