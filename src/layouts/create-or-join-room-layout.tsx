@@ -1,6 +1,6 @@
 import { Box, Image, Text } from '@chakra-ui/react'
 import illustrationImg from '../images/illustration.svg'
-import logoImg from '../images/logo.svg'
+import logoImg from '../../public/logo.svg'
 import { Outlet } from 'react-router-dom'
 
 export function CreateOrJoinRoomLayout() {

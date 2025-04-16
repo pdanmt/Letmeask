@@ -1,5 +1,5 @@
 import { Box, Button, Image, Skeleton, Text } from "@chakra-ui/react";
-import logoImg from '../images/logo.svg'
+import logoImg from '../../public/logo.svg'
 import { useParams } from "react-router-dom";
 import { ModalComponent } from "../components/modal-component";
 import { Copy } from "lucide-react";
